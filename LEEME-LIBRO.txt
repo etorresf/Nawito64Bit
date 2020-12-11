@@ -1,0 +1,26 @@
+Libros para el motor Nawito 1812 por Pedro Moreno
+#################################################
+
+
+Los libros para el motor Nawito 1812 se realizaron a partir de una base de datos en formato pgn 
+tomada de partidas entre motores escogidas de las bases del CCRL 02- 2018 40/40. Se seleccionaron 
+las partidas con blancas y negras de los siguientes motores: Stockfish 10 4 cpu, Stockfish 9, 
+SugaR X Pro 1.6, Houdini 6, Komodo 12. Luego de esta base general (8488 partidas)se se fueron filtrando 
+progresivamente con el programa Scid hasta obtener la muestra deseada para conformar los 3 libros 
+(Nawito 1812 white book,Nawito 1812 black book y Nawito 1812 main book) hasta la jugada 8(16 ply).
+Las lineas principales de cada libro(white book- 1836, black book - 1661 y main book- 3457 fueron 
+seleccionadas con la prioridad necesaria. Para realizar definitivamente los libros en formato bin se 
+utilizó el programa pgn extract y el programa PolyGlot 1.4w (Fabien Letouzy, modified by Fonzy Bluemers)
+
+			Pedro Moreno
+			24/02/2019
+
+
+
+
+nota:	Los libros por bando(Nawito1812WhiteBook y Nawito1812BlackBook) fueron unidos en uno solo 
+		(Nawito1812Book). Mas de un 50% de los movimientos de los libros Nawito1812Book y Nawito1812MainBook 
+		fueron analizados por el motor Nawito2012 hasta la profundidad 16.
+
+		Ernesto Torres
+		12/12/2020
