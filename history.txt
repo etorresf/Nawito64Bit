@@ -1,0 +1,64 @@
+Release Notes - Nawito2103
+--------------------------------------------------------------------------------
+
+* New code style.
+* More compact code.
+* Removed the sts test
+* New PutPiece, QuitPiece, MovePiece for update the: board, hash, hash_material, number of pieces, etc.
+* More detailed transposition table replacement strategy.
+* New hash material support.
+* New sort quiet moves by SEE, in the search not in move generator
+* Correction to some eval terms like: piece material, material exchange, bishop pair, bad bishop, pieces mobility and king safety.
+* New game phase detection.
+* Separate de piece value of pst.
+* New book scheme
+* New book 'Asere2103.nbk', based on CCRl games
+* Others minors corrections
+
+
+
+Release Notes - Nawito2012
+--------------------------------------------------------------------------------
+
+* Solved bugs in the communication protocol. 
+* New time control based on average of material and moves.
+* New book scheme.
+* New board representation(Bitboard).
+* New transposition table replacement strategy. 
+* New hash age update.
+* New hash material values.
+* Solved bug with the values of hash material.
+* Solved bugs in some supported endgames.
+* Removed center control.
+* New bishop mobility.
+* New condition for bad bishops.
+* Add tropism to the King.
+* Changes on King Security.
+* Add advanced pawn.
+* New knowledge off pawn struct.
+* News supported endgames.
+* Some others minors change on the evaluation.
+* New Search Root.
+* New LMR formula.
+* New razoring formula and conditions.
+* Minors changes on Null Move.
+* Minors changes on history heuristic, matekillers and Killers.
+
+
+
+Release Notes - Nawito1906
+--------------------------------------------------------------------------------
+
+* New condition for bad captures.
+* New own book scheme, with learning based on ant colony algorithm.
+* New position for the bench test.
+* New values for MATE and game phases.
+* More big hash material value.
+* New transposition table replacement strategy based on Bucket systems. 
+* The calculation of transposition table index now is based on power of two.
+* Now the transposition table delete the old entries.
+* New output for the STS test.
+* Solved bug with a empty profile.
+* Solved bugs with some supported endgames.
+
+
