@@ -1,13 +1,13 @@
 # Nawito2205 - Cuban Chess Engine by Ernesto Torres
 
-Engine version:&nbsp;*22.05* \
-Release date:&nbsp;*15-05-2022* \
-Available versions:&nbsp;*Windows/Linux/Android, 64 bits* \
-Communication protocol:&nbsp;*UCI* \
-ELO estimated:&nbsp*2650* \
-License:&nbsp;*GPL* \
-Autor email:&nbsp;*NawitoChessEngine@yandex.com* \
-github:&nbsp;"https://github.com/etorresf/Nawito64Bit*
+Engine version:&emsp;*22.05* \
+Release date:&emsp;*15-05-2022* \
+Available versions:&emsp;*Windows/Linux/Android, 64 bits* \
+Communication protocol:&emsp;*UCI* \
+ELO estimated:&emsp;*2650* \
+License:&emsp;*GPL* \
+email:&emsp;*NawitoChessEngine@yandex.com* \
+github:&emsp;"https://github.com/etorresf/Nawito64Bit*
 
 
 # TABLE OF CONTENTS
