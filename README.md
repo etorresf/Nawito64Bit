@@ -1,7 +1,6 @@
 # Nawito2205 - Cuban Chess Engine by Ernesto Torres
 
-* Engine version \
-  22.05
+* **Engine version:** 22.05
 * Release date \
   15-05-2022
 * Available versions \
