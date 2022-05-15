@@ -6,8 +6,8 @@ Available versions:&emsp;*Windows/Linux/Android, 64 bits* \
 Communication protocol:&emsp;*UCI* \
 ELO estimated:&emsp;*2650* \
 License:&emsp;*GPL* \
-email:&emsp;*NawitoChessEngine@yandex.com* \
-github:&emsp;"https://github.com/etorresf/Nawito64Bit*
+email:&emsp;&nbsp;*NawitoChessEngine@yandex.com* \
+github:&emsp;*https://github.com/etorresf/Nawito64Bit*
 
 
 # TABLE OF CONTENTS
