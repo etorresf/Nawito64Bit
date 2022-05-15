@@ -1,13 +1,13 @@
 # Nawito2205 - Cuban Chess Engine by Ernesto Torres
 
-Engine version:         *22.05*
-Release date:           *15-05-2022*
-Available versions:     *Windows/Linux/Android, 64 bits*
-Communication protocol: *UCI*
-ELO estimated:          *2650*
-License:                *GPL*
-Autor email:            *NawitoChessEngine@yandex.com*
-github:                 *https://github.com/etorresf/Nawito64Bit*
+Engine version:         *22.05* \
+Release date:           *15-05-2022* \
+Available versions:     *Windows/Linux/Android, 64 bits* \
+Communication protocol: *UCI* \
+ELO estimated:          *2650* \
+License:                *GPL* \
+Autor email:            *NawitoChessEngine@yandex.com* \
+github:                 *https://github.com/etorresf/Nawito64Bit* \
 
 
 # TABLE OF CONTENTS
@@ -39,50 +39,50 @@ Please report any ideas, suggestions or errors about the engine.
 
 # 2. CONTENT
 
-* README.md
+* README.md \
   This file
-* GPL-LICENSE.txt
+* GPL-LICENSE.txt \
   Engine license
-* history.txt
+* history.txt \
   Release notes
-* /Windos
-  * Nawito-22.05-windows-x64.exe
+* /Windows
+  * Nawito-22.05-windows-x64.exe \
     Engine for Windows *(64 bits)*
-  * Nawito.ini
+  * Nawito.ini \
     Configuration file of Windows engine
-  * logo.jpg
+  * logo.jpg \
     Logo of Windows program *(by Dusan Stamenkovic)*
 * /Linux
-  * Nawito-22.05-linux-x64
+  * Nawito-22.05-linux-x64 \
     Engine for Linux *(64 bits)*
-  * Nawito.ini
+  * Nawito.ini \
     Configuration file of Linux engine
-  * logo.jpg
+  * logo.jpg \
     Logo of Linux program *(by Dusan Stamenkovic)*
 * /Android
-  * Nawito-22.05-arm7-x64
+  * Nawito-22.05-arm7-x64 \
     Engine for Android *(64 bits)*
-  * Nawito.ini
+  * Nawito.ini \
     Configuration file of Android engine
-  * logo.jpg
+  * logo.jpg \
     Logo of Android program *(by Dusan Stamenkovic)*
 * /src
-  Program code
-  * Makefile
+  Program code \
+  * Makefile \
     Program compilation manager
 * /Books
-  Chess engine opening books in polyglot format
-* /Logos
+  Chess engine opening books *(polyglot format)*
+* /Logos \
   Various logos of the engine
 
 # 3. PERFORMANCE
 
 * perft <n>
     Command to discover faults or measure move generator speed to the depth <n> *(by default 5)*
-    from this position: *r3k2r/p1ppqpb1/bn2pnp1/3PN3/1p2P3/2N2Q1p/PPPBBPPP/R3K2R w KQkq -*
+    from this position: \ *r3k2r/p1ppqpb1/bn2pnp1/3PN3/1p2P3/2N2Q1p/PPPBBPPP/R3K2R w KQkq -*
 * bench
     Command to check the relative speed of the computer with respect to another.
-    Solve mate from this position: *r4nk1/4brp1/q2p1pQP/3P4/2p1NP2/P7/1B6/1KR3R1 w - - 1 34*
+    Solve mate from this position: \ *r4nk1/4brp1/q2p1pQP/3P4/2p1NP2/P7/1B6/1KR3R1 w - - 1 34*
 
 
 # 4. FEATURES
