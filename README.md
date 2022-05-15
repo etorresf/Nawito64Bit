@@ -2,16 +2,12 @@
 
 **Engine version:** 22.05 \
 **Release date:** 15-05-2022 \
-* **vailable versions:** Windows/Linux/Android, 64 bits \
-* **Communication protocol:** UCI \
-* ELO estimated:
-  2650
-* License: \
-  GPL
-* email: \
-  NawitoChessEngine@yandex.com
-* github: \
-  https://github.com/etorresf/Nawito64Bit
+**vailable versions:** Windows/Linux/Android, 64 bits \
+**Communication protocol:** UCI \
+**ELO estimated:** 2650 \
+**License:** GPL \
+**email:** NawitoChessEngine@yandex.com \
+**github:** https://github.com/etorresf/Nawito64Bit
 
 
 # TABLE OF CONTENTS
