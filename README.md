@@ -1,7 +1,7 @@
 # Nawito2205 - Cuban Chess Engine by Ernesto Torres
 
 Engine version:         *22.05*
-Release date:           *15-05-2022
+Release date:           *15-05-2022*
 Available versions:     *Windows/Linux/Android, 64 bits*
 Communication protocol: *UCI*
 ELO estimated:          *2650*
@@ -45,28 +45,28 @@ Please report any ideas, suggestions or errors about the engine.
   Engine license
 * history.txt
   Release notes
-* /Windows/
+* /Windos
   * Nawito-22.05-windows-x64.exe
     Engine for Windows *(64 bits)*
   * Nawito.ini
     Configuration file of Windows engine
   * logo.jpg
     Logo of Windows program *(by Dusan Stamenkovic)*
-* /Linux/
+* /Linux
   * Nawito-22.05-linux-x64
     Engine for Linux *(64 bits)*
   * Nawito.ini
     Configuration file of Linux engine
   * logo.jpg
     Logo of Linux program *(by Dusan Stamenkovic)*
-* /Android/
+* /Android
   * Nawito-22.05-arm7-x64
     Engine for Android *(64 bits)*
   * Nawito.ini
     Configuration file of Android engine
   * logo.jpg
     Logo of Android program *(by Dusan Stamenkovic)*
-* /src/
+* /src
   Program code
   * Makefile
     Program compilation manager
