@@ -2,7 +2,7 @@
 
 **Engine version:** 22.07  
 **Release date:** 31-07-2022  
-**Available versions:** Windows/Linux/Android _(64 bits)_
+**Available versions:** Windows/Linux/Android _(64 bits)_. 
 **Communication protocol:** UCI  
 **ELO estimated:** 2690  
 **License:** GPL  
