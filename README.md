@@ -8,7 +8,6 @@
 **License:** GPL  
 **email:** NawitoChessEngine@yandex.com  
 **github:** https://github.com/etorresf/Nawito64Bit  
-**Telegram:**
 
 
 # TABLE OF CONTENTS
